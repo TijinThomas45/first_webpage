@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>finalproject</title>
+</head>
+<body>
+<h1>TIJIN IDICULLA THOMAS</h1>
+<nav>
+<a href="one/">one</a>
+<a href="two/">two</a>
+<a href="three/">three</a>
+<a href="tijin/">tijin</a>
+</nav>
+<h2>Favourite Foods</h2>
+<ul>
+<li>apples</li>
+<li>Pizza</li>
+<li>Fish</li>
+<li>Ice cream</li>
+</ul>
+<h2>Achievements</h2>
+Progress in this course(100%)<progress value="100" max="100"></progress><br>
+Progress in this speclization capstone(20%)<progress value="20" max="100"></progress><br>
+Progress in this life goals(70%)<progress value="70" max="100"></progress>
+<h2>More about me</h2>
+<details>
+<summary>My childhood</summary>
+<p>My chidhood was awesome.I really enjoyed every bit of it.</p></details>
+<footer>
+<img src="http://www.intro-webdesign.com/images/newlogo.png" alt="logo">
+This page was created by <mark>Tijin Idiculla Thomas</mark> &amp; Colleen van Lent.To learn more about web design, visit
+<a href="http://www.intro-webdesign.com/">Intro to Web Design.</a>
+</footer>
+</body>
+</html>
